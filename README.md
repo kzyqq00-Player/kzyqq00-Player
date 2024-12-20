@@ -3,7 +3,7 @@
 随心所欲，畅快而行
 
 ## Favorite language
-众所周知是个程序猿都会特别喜欢某一种语言，比如我？那必须是~~`JavaScript`~~`TypeScript`啊，你看语法多么的优雅，写个输入逻辑(Node.js)是非常简单的：
+众所周知是个程序猿都会特别喜欢某一种语言，比如我？那必须是<del>`JavaScript`</del>`TypeScript`啊，你看语法多么的优雅，写个输入逻辑(Node.js)是非常简单的：
 ```typescript
 import { createInterface } from "node:readline";
 
