@@ -3,7 +3,7 @@
 随心所欲，畅快而行
 
 ## Favorite language
-众所周知是个程序猿都会特别喜欢某一种语言，比如我？那必须是~~JavaScript~~`TypeScript`啊，你看语法多么的优雅，写个输入逻辑(Node.js)是非常简单的：
+众所周知是个程序猿都会特别喜欢某一种语言，比如我？那必须是~~`JavaScript`~~`TypeScript`啊，你看语法多么的优雅，写个输入逻辑(Node.js)是非常简单的：
 ```typescript
 import { createInterface } from "node:readline";
 
@@ -12,7 +12,7 @@ readline.on("line", (line) => {
     // line就是这一行的内容
 });
 ```
-不想隔壁`C++`，还要`#include`一下，麻烦的要死：
+不像隔壁`C++`，还要`#include`一下，麻烦的要死：
 ```cpp
 #include <iostream>
 using namespace std;
