@@ -21,7 +21,7 @@ int main()
 {
     char input[256];
     cin >> input;
-    // input就是输入的内容，甚至上限是255！甚么鸡巴设定
+    // input就是输入的内容，甚至上限是255！甚么逆天设定
     return 0;
 }
 ```
