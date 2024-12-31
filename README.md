@@ -1,5 +1,9 @@
 # Hi there, I'm kzyqq00-Player! 👋
 
+# HAPPY NEW YEAR!
+# 元旦快乐！
+
+
 随心所欲，畅快而行
 
 ## Favorite language
