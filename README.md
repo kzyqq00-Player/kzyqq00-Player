@@ -1,8 +1,6 @@
 # Hi there, I'm kzyqq00-Player! 👋
 
-### HAPPY NEW YEAR!
-### 元旦快乐！
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kzyqq00-Player&layout=compact)
 
 随心所欲，畅快而行
 
