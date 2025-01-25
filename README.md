@@ -2,6 +2,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kzyqq00-Player&layout=compact)
 
+**温馨提示：这里不是许愿池**
+
 <details>
     <summary>👉点我查看更多奇怪的东西😋</summary>
 
